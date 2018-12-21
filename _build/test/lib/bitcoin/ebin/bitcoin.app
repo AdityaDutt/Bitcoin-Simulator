@@ -1,0 +1,10 @@
+{application,bitcoin,
+             [{applications,[kernel,stdlib,elixir,logger]},
+              {description,"bitcoin"},
+              {modules,['Elixir.BTC_Node','Elixir.Base58Check',
+                        'Elixir.Bitcoin','Elixir.Miner','Elixir.Project4',
+                        'Elixir.TX_Valid']},
+              {registered,[]},
+              {vsn,"0.1.0"},
+              {error,{"no such file or directory","Elixir.Project4.app"}},
+              {mod,{'Elixir.Project4',[]}}]}.
