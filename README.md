@@ -1,4 +1,4 @@
-# Bitcoin
+# Bitcoin Simulator
 
 **TODO: Add description**
 
