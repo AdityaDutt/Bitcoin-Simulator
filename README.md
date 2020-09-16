@@ -1,6 +1,6 @@
 # Bitcoin Simulator
 
-**TODO: Add description**
+Implementation of Bitcoin protocol to simulate bitcoin mining, wallet and transactions.
 
 ## Installation
 
